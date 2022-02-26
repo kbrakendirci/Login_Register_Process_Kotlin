@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319139300518",
+    "project_id": "loginprocess-98764",
+    "storage_bucket": "loginprocess-98764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319139300518:android:aa0a3b19a8a21d320fe067",
+        "android_client_info": {
+          "package_name": "com.kotlinproject.SignInProcess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319139300518-bdgfmb906g1vqace7egqg14ca2m0h5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOWJWwlRIUJi0XSh7U96uUfugwaOC2u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319139300518-bdgfmb906g1vqace7egqg14ca2m0h5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
